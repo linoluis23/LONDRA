@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|c:\\users\\angela lopez\\londra 18_11_2022\\sigrh\\precontratacion\\contrataciondescriptor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|solutionrelative:sigrh\\precontratacion\\contrataciondescriptor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA076D89-A6EA-4B49-AD2F-70D43A16F3DF}|Solution_Framework_MovimientoPersonal\\Solution_Framework_MovimientoPersonal.csproj|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\solution_framework_movimientopersonal\\bussinesslogiclayer\\cls_mp_seguimiento_memorandum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA076D89-A6EA-4B49-AD2F-70D43A16F3DF}|Solution_Framework_MovimientoPersonal\\Solution_Framework_MovimientoPersonal.csproj|solutionrelative:solution_framework_movimientopersonal\\bussinesslogiclayer\\cls_mp_seguimiento_memorandum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\sigrh\\configuraciones\\registroadminfactores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|solutionrelative:sigrh\\configuraciones\\registroadminfactores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\sigrh\\salarios\\validaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|solutionrelative:sigrh\\salarios\\validaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\sigrh\\salarios\\validaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|solutionrelative:sigrh\\salarios\\validaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\sigrh\\precontratacion\\contrataciondescriptor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884D4356-C5D5-4F02-AB9B-2C909336FAD4}|C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH|solutionrelative:sigrh\\precontratacion\\contrataciondescriptor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroAdminFactores.aspx",
+              "DocumentMoniker": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Configuraciones\\RegistroAdminFactores.aspx",
+              "RelativeDocumentMoniker": "SIGRH\\Configuraciones\\RegistroAdminFactores.aspx",
+              "ToolTip": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Configuraciones\\RegistroAdminFactores.aspx",
+              "RelativeToolTip": "SIGRH\\Configuraciones\\RegistroAdminFactores.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-03T19:53:56.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cls_mp_seguimiento_memorandum.cs",
+              "DocumentMoniker": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\Solution_Framework_MovimientoPersonal\\BussinessLogicLayer\\cls_mp_seguimiento_memorandum.cs",
+              "RelativeDocumentMoniker": "Solution_Framework_MovimientoPersonal\\BussinessLogicLayer\\cls_mp_seguimiento_memorandum.cs",
+              "ToolTip": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\Solution_Framework_MovimientoPersonal\\BussinessLogicLayer\\cls_mp_seguimiento_memorandum.cs",
+              "RelativeToolTip": "Solution_Framework_MovimientoPersonal\\BussinessLogicLayer\\cls_mp_seguimiento_memorandum.cs",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAowMABAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T18:27:34.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContratacionDescriptor.aspx",
+              "DocumentMoniker": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Precontratacion\\ContratacionDescriptor.aspx",
+              "RelativeDocumentMoniker": "SIGRH\\Precontratacion\\ContratacionDescriptor.aspx",
+              "ToolTip": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Precontratacion\\ContratacionDescriptor.aspx",
+              "RelativeToolTip": "SIGRH\\Precontratacion\\ContratacionDescriptor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-03T15:39:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validaciones.aspx",
+              "DocumentMoniker": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Salarios\\Validaciones.aspx",
+              "RelativeDocumentMoniker": "SIGRH\\Salarios\\Validaciones.aspx",
+              "ToolTip": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Salarios\\Validaciones.aspx",
+              "RelativeToolTip": "SIGRH\\Salarios\\Validaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-03T17:36:20.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContratacionDescriptor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Precontratacion\\ContratacionDescriptor.aspx.cs",
+              "RelativeDocumentMoniker": "SIGRH\\Precontratacion\\ContratacionDescriptor.aspx.cs",
+              "ToolTip": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Precontratacion\\ContratacionDescriptor.aspx.cs",
+              "RelativeToolTip": "SIGRH\\Precontratacion\\ContratacionDescriptor.aspx.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAgwMMBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T15:39:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validaciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Salarios\\Validaciones.aspx.cs",
+              "RelativeDocumentMoniker": "SIGRH\\Salarios\\Validaciones.aspx.cs",
+              "ToolTip": "C:\\Users\\Angela Lopez\\LONDRA 18_11_2022\\SIGRH\\Salarios\\Validaciones.aspx.cs",
+              "RelativeToolTip": "SIGRH\\Salarios\\Validaciones.aspx.cs",
+              "ViewState": "AgIAAFgEAAAAAAAAAAAkwHYEAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:25:32.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
